@@ -10,9 +10,7 @@
 */
 /**
 Wincnc ShopSabre RC4 Port
-author: Sam Winkelstein  sjwinkels44@gmail.com
 all changes to program to work with shop Sabre will have comments expaining them. 
-are and my own and are not done by autodesk.
 */
 
 description = "ShopSabre m5 Arcs (*.tap)";
